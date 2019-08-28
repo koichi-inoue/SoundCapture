@@ -1,2 +1,2 @@
 # SoundCapture
-p5.js｜SoundCapture 
+p5.js｜SoundCapture
